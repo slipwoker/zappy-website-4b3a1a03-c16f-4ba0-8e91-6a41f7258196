@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות אונליין מובילה לטיולים ובידור לכל המשפחה! מבחר עצום של מוצרים, מחירים שאי אפשר לפספס והזמנה קלה ומהירה מהבית. הצטרפו אלינו עוד היום!
+
+### ניסיון
+https://example.com/experience
+גלה חוויית קנייה אונליין ייחודית לטיולים ובידור לכל המשפחה. אנחנו מביאים לך את הטוב ביותר בקלות, במהירות ובשירות שמרגיש אישי. כנס וגלה בעצמך!
+
+### אודות
+https://example.com/about
+הכירו את הצוות שמאחורי חנות האונליין המובילה לטיולים ובידור בישראל. אנחנו מאמינים בשירות אמיתי, מחירים הוגנים וחוויה שמתחילה ממש מהלב. גלו מי אנחנו!
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה על הזמנת טיולים אונליין במחיר טוב? צוות השירות שלנו זמין עבורך ומוכן לעזור בכל עניין. צרו קשר עכשיו ונחזור אליכם במהירות הבזק!
+
+### Products
+https://example.com/products
+המוצרים שלנו - ליובאוויטשער רופן- טיולים ובידור מכל הלב
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ליובאוויטשער רופן- טיולים ובידור מכל הלב
+
+### Category
+https://example.com/category/:slug
+מוצרים - ליובאוויטשער רופן- טיולים ובידור מכל הלב
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
